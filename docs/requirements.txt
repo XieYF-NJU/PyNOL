@@ -3,3 +3,4 @@ numpy
 autograd
 cvxpy
 matplotlib
+sphinx-rtd-theme
